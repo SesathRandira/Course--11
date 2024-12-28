@@ -1,0 +1,15 @@
+.subscribe-button{
+background-color: rgb(204, 0, 0);
+color: white;
+border: 1px;
+width: 95px;
+height: 34px;
+border-radius: 2px;
+cursor: pointer;;
+}
+
+.subscribe-button:hover{
+opacity: 80%;
+transition-duration: 0.15s;
+}
+
