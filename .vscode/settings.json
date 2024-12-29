@@ -1,5 +1,5 @@
 {
-    "gitdoc.enabled": false,
+    "gitdoc.enabled": true,
     "gitdoc.ai.enabled": true,
     "gitdoc.autoCommitDelay":600000,
     "gitdoc.ai.customInstructions": "remove detail about 'version.txt' from the commit message "
