@@ -1,7 +1,7 @@
 {
     "gitdoc.enabled": true,
     "gitdoc.ai.enabled": true,
-    "gitdoc.autoCommitInterval": 600000 // Set to 10 minutes (600,000 milliseconds)
+    "gitdoc.autoCommitInterval": 600000
     
    
 }
