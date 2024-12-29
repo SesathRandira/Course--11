@@ -1,7 +1,8 @@
 {
     "gitdoc.enabled": true,
     "gitdoc.ai.enabled": true,
-    "gitdoc.autoCommitInterval": 600000
+    "gitdoc.autoCommitInterval": 600000,
+    "gitdoc.ai.customInstructions": "remove detail about 'version.txt' "
     
    
 }
