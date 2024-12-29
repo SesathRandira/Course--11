@@ -1,5 +1,5 @@
 {
-    "gitdoc.enabled": true,
+    "gitdoc.enabled": false,
     "gitdoc.ai.enabled": true,
-    "gitdoc.ai.customInstructions": "add a version number to the commit message",
+    "gitdoc.ai.customInstructions": "create version system  to the end of commit message",
 }
