@@ -41,3 +41,9 @@
     padding-top: 18px;
     padding-bottom: 18px;
 }
+.shop-now{
+    cursor: pointer;
+}
+.shop-now:hover{
+    text-decoration: underline;
+}
