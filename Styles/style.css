@@ -1,4 +1,11 @@
-.video-thumb{
-    width: 280px;
-    display: block;
+.Video-Prev {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+.video-thumb {
+  width: 300px;
+}
+.search-bar {
+  display: block;
 }
